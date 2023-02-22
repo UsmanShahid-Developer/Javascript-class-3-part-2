@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+    }
+    .s1{
+    margin-right: 570px;
+    list-style: none;
+    }
+    .s2{
+        border-bottom: 2px solid black;
+         margin: 200px;
+         border-width: 5px;
+    }
